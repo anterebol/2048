@@ -1,0 +1,9 @@
+.number-box {
+  background: -webkit-linear-gradient(right, rgb(174, 172, 172) 30%, rgb(224, 223, 223));
+  display: grid;
+  text-align: center;
+  align-items: center;
+  color: white;
+  margin: 5px;
+  font-size: 24px;
+}
