@@ -1,11 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { GamePlace } from './components/GamePlace/GamePlace';
 
 function App() {
   return (
     <div className="App">
-      <p>2048 game</p>
+      <p>2048</p>
+      <GamePlace />
     </div>
   );
 }
