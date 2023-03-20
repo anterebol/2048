@@ -1,11 +1,11 @@
 .App {
   width: 100vw;
   height: 100vh;
-  background: orange;
+  background: rgb(236, 225, 206);
 }
 .App p {
   text-align: center;
-  color: white;
-  font-size: 24px;
+  color: rgb(223, 194, 130);
+  font-size: 32px;
   padding: 10px 0;
 }
